@@ -12,7 +12,7 @@ altura = float(input ("Ingrese su estatura en metros por favor: ")) #Aqui se sol
 masa = float (input("Ingrese su peso en kilogramos por favor :")) #Aqui se solicita el peso en kilogramos
 
 
- #Calculo del IMC, masa (En kilogramos) entre la estatura (En metros) elevada al cuadrado
+#Calculo del IMC, masa (En kilogramos) entre la estatura (En metros) elevada al cuadrado
 IMC = masa / altura**2
 
 #Se realiza la impresión de los datos del IMC
